@@ -1,7 +1,7 @@
 # Website
-Replica de https://www.andrerieu.com/en/travel
+##Replica de https://www.andrerieu.com/en/travel
 
-Similitudes entre los sitios en animaciones y hover mouse (de arriba hacia abajo):
+###Similitudes entre los sitios en animaciones y hover mouse (de arriba hacia abajo):
 
 Barra blanca de arriba (topbar): tiene los simbolos de las redes sociales, las cuales cambian de color con hover mouse.
 
