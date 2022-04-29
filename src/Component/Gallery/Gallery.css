@@ -1,0 +1,40 @@
+.top-gallery-title {
+	background-color: #001e3c;
+	font-size: 30px;
+	color: white;
+	border-top-right-radius: 30px;
+}
+.gallery-grid {
+	display: grid;
+	grid-template-columns: 2fr 1fr;
+	grid-gap: 30px-;
+}
+.video-hover {
+	position: relative;
+	margin: auto;
+	overflow: hidden;
+	cursor: pointer;
+}
+.hover-effect {
+	transition: all 1s;
+	display: block;
+	width: 680px;
+	height: 350px;
+	transform: scale(1);
+}
+
+.cursor {
+	cursor: pointer;
+}
+@media (max-width: 990px) {
+	.gallery-grid {
+		grid-template-columns: 1fr;
+	}
+	.hover-effect {
+		width: 100%;
+		margin: 0 auto;
+	}
+	.gallery-image {
+		margin: 0 auto !important;
+	}
+}

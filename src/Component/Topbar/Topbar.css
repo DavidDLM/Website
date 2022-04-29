@@ -1,0 +1,14 @@
+.topbar {
+	background-color: white;
+}
+.icon {
+	font-size: 33px;
+	cursor: pointer;
+	color: #001e3c;
+}
+.icon:hover {
+	color: #b49769;
+}
+.img-fluid-title{
+	height: 100px;
+}

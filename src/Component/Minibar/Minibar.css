@@ -1,0 +1,17 @@
+.width-part {
+	position: relative;
+	background-color: rgb(255, 255, 255);
+	display: inline-block;
+	border-top-right-radius: 30px;
+}
+.arrow {
+	clip-path: polygon(0% 0%, 75% 0%, 100% 50%, 75% 100%, 0% 100%);
+	background-color: #b49769;
+	color: white;
+	font-size: 18px;
+}
+.home {
+	color: #001e3c;
+	cursor: pointer;
+	font-size: 18px;
+}
